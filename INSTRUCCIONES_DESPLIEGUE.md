@@ -94,7 +94,7 @@ Render es una plataforma excelente para desplegar aplicaciones Spring Boot de fo
 ### Paso 3: Configurar el despliegue
 En la pantalla de configuración de Render, rellena los siguientes campos:
 
-*   **Name:** `proyecto-modelo-backend` (o el nombre que prefieras).
+*   **Name:** `YA` (o el nombre que prefieras).
 *   **Region:** Selecciona la más cercana (ej. *Oregon* o *Ohio*).
 *   **Branch:** `main` (o la rama donde esté tu código).
 *   **Language:** Selecciona **Docker** (esto le indica a Render que use el archivo `Dockerfile` que creamos en la raíz del proyecto).
